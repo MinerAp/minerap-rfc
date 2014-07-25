@@ -1,5 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/MinerAp/minerap-rfc.png?label=ready&title=Ready)](https://waffle.io/MinerAp/minerap-rfc)
-minerap-rfc
+minerap-rfc [![Stories in Ready](https://badge.waffle.io/MinerAp/minerap-rfc.png?label=ready&title=Ready)](https://waffle.io/MinerAp/minerap-rfc)
 ===========
 
 Welcome to the MinerApocalypse RFC/issue tracker!
