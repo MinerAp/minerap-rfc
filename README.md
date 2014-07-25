@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/MinerAp/minerap-rfc.png?label=ready&title=Ready)](https://waffle.io/MinerAp/minerap-rfc)
 minerap-rfc
 ===========
 
